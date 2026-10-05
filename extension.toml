@@ -1,0 +1,7 @@
+id = "dracula-charcoal"
+name = "Dracula Charcoal"
+version = "0.1.0"
+schema_version = 1
+authors = ["Jake Robson-Tull"]
+description = "Dracula syntax colors on a neutral charcoal background."
+repository = "https://github.com/jrobsontull/zed-dracula-charcoal"
